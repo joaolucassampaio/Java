@@ -1,7 +1,0 @@
-Faça uma classe Ponto, que tenha os atributos:
-* coordenadas x e y
-
-E os seguinte métodos:
-* gets, sets, toString
-* distância que vai calcular e retornar a distância entre o ponto objeto da classe o outro ponto parâmetro
-* pontoMedio que vai calcular e retornar o ponto médio entre o ponto objeto da classe o outro ponto parâmetro.
